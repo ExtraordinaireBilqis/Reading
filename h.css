@@ -1,0 +1,332 @@
+.container{
+    display: flex;
+    justify-content: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.logo{
+    margin-right: 100px;
+    margin-left: 0px;
+    padding-left: 0%;
+padding-top: 8px;
+padding-bottom: 8px;
+}
+.blue{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    padding: 0 2em;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(215, 106, 106);
+    height: 50px;
+    color: rgb(255, 254, 254);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+
+li{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 20px 2em ;
+    align-items: center;
+    font-weight: bold;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+a{
+    color: rgb(252, 252, 252);
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+}
+li:hover{
+    background-color: rgb(128, 104, 147);
+    /* padding: 20px 2em; */
+    height: auto;
+    text-decoration: none;
+    transition: background-color 0.5s ease, transform 0.5s ease ;
+}
+.containertwo{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-right: 100px;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    padding-top: 30px;
+}
+.two{
+    text-align: right;
+}
+.heading{
+    text-align: center;
+    color: rgb(215, 106, 106);
+    font-family: sans-serif;
+}
+.img{
+    text-align: center;
+}
+.one{
+    color: rgb(215, 106, 106);
+    font-family: sans-serif;
+    padding-bottom: 0px;
+    margin-bottom: 0%;
+}
+.three{
+    padding-top: 0%;
+    margin-top: 0%;
+}
+.me{
+    margin-top: 60px;
+    color: rgb(215, 106, 106);
+    font-family: sans-serif;
+}
+.books{
+    
+    justify-content: space-between;
+    padding: 10px;
+}
+.rp{
+    color: rgb(215, 106, 106);
+    padding-left: 200px;
+    
+}
+.okay{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.datetime{
+    display: flex;
+}
+.time{
+    margin-left: 10px;
+}
+.pic{
+    padding-left:200px ;
+    
+}
+.content{
+    padding-right: 270px  
+}
+.lol{
+    display: flex;
+}
+.lmfao{
+    padding-left: 150px;
+    margin-left: 0px;
+}
+.world{
+    color: rgb(63, 57, 57);
+    font-size: 40px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    width: 150px;
+    background-color: white;
+    padding: 10px;
+}
+.lmao{
+    padding: 70px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 0px;
+    background-color:rgb(215, 106, 106);
+}
+.form{
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+.para{
+    text-align: center;  
+    justify-content: center;
+}
+.convo{
+    font-size: 50px;
+    font-weight: 50;
+    padding-bottom: 0px;
+    margin-bottom: 0%;
+}
+.sev{
+    margin-top: 0%;
+}
+Input[type="text"] 
+{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: none;
+}
+#na{
+    width:200%;
+}
+#me{
+    width: 90%;
+}
+Input[type="email"]{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+}
+
+.dee{ padding-left: 200px;
+    padding-right: 0px;
+}
+.vee{
+    padding-right: 300px;
+}
+label{
+    padding: 1em;
+    display: block;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.on{
+    padding-top: 1em;
+}
+#na{
+    width: 25em;
+}
+#me{
+    width: 25em;
+}
+#em{
+    width: 55em;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    background-color: rgb(240, 162, 162);
+    margin-top: 50px;
+}
+.ft{
+    display: flex;
+    justify-content: space-between;
+}
+#la{
+    width: 25em;
+    justify-content: space-between;
+    align-items: center;
+    background-color: none;
+}
+#lb{
+    width: 25em;
+    background-color: none;
+}
+.fm{
+    margin-left: 5px;
+    padding-right: 5px;
+}
+input[id = "la"] {
+    background: none;
+    padding-left: 100px;
+}
+input[id = "lb"] {
+    background: none;
+    width: 10em;
+    padding-right: 50px;
+}
+input[id = "message"] {
+    background: none;
+    width: 45em;
+}
+.ten{
+    display: flex;
+    justify-content: space-between;
+}
+.hi{
+    padding-left: 0px;
+    padding-right: 100px;
+}
+.div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bil{
+    display: flex;
+    justify-content: space-between;
+}
+.sev{
+    padding-left: 250px;
+    padding-right: 0px;
+}
+.eight{
+    padding-right: 350px;
+    padding-left: 0px;
+}
+.picture{
+    padding-left: 10px;
+    padding-top: 0px;
+}
+.log{
+    margin-left: 220px;
+    margin-bottom: 0px;  
+}
+.me{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.imged{
+    padding-top: 28px;
+}
+#Bilqis{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: rgb(190, 128, 53);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+ #Ummi{
+    width: 50px;
+    height: 50px;
+    border: 5px solid salmon;
+    border-top-color: darkmagenta;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+@-webkit-keyframes spin{
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(360deg);}
+}
+body.loaded #Bilqis {
+    opacity: 0;
+    visibility:hidden ;
+
+}
+body.loading #Bilqis {
+    animation: fadeout 5s forwards ;
+}
+body.loaded .container{
+    display: none;
+}
+body.loading .container{
+    display: block;
+}

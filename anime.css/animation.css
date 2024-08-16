@@ -1,0 +1,13 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    -webkit-animation-name:first ;
+    -webkit-animation-duration: 4s;
+    animation-name: first;
+    animation-duration: 4s;
+}
+@-webkit-keyframes first{
+    from {background-color: blueviolet;}
+    to{background-color: brown;}
+}
